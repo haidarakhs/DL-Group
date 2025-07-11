@@ -515,6 +515,8 @@ body {
   border-bottom: 1px solid #ddd;
   padding-bottom: 2rem;
   margin-bottom: 2rem;
+   border-top: 1px solid #ddd;
+    padding: 3rem 2rem;
 }
 
 .footer-col {
@@ -563,8 +565,9 @@ body {
     text-align: left;
   }
 }
-/* footer */
 
+/* footer */
+/* quote start */
 .quote-section {
   background: #fafafa;
   padding: 3rem 1rem;
@@ -585,3 +588,5 @@ body {
   font-size: 0.95rem;
   color: #777;
 }
+/* quote end */
+
